@@ -37,7 +37,7 @@
 
 <h2>🎓 Education</h2>
 <ul>
-  <li><strong>BCA</strong>, Maharishi University of Information Technology, Noida (2025–2028)</li>
+  <li><strong>BCA</strong>, Maharishi University of Information Technology</li>
   <li><strong>XII</strong>, National Inter College, UP Board – 77% (2022)</li>
   <li><strong>X</strong>, National Inter College, UP Board – 70% (2020)</li>
 </ul>
