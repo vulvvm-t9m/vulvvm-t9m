@@ -52,7 +52,7 @@
 <h2>📁 Projects</h2>
 <ul>
   <li><a href="https://github.com/vulvvm-t9m">GitHub Profile</a> *(Add your GitHub link)*</li>
-  <li><a href="#">Medium Articles</a> *(Add Medium link if available)*</li>
+  <li><a href="https://medium.com/@inferno10x1">Medium Articles</a> *(Add Medium link if available)*</li>
 </ul>
 
 <h2>📫 Contact</h2>
